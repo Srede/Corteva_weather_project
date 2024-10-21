@@ -1,0 +1,597 @@
+2024-10-20 05:15:08,402 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:15:36,236 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:18:06,941 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:18:20,958 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:18:42,892 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:19:00,307 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:20:56,002 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:21:07,749 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:22:20,984 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:22:42,644 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:24:46,036 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:25:03,749 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:25:05,277 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110072.txt. Total records ingested: 10865. Duration: 0:00:01.527739
+2024-10-20 05:25:05,277 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110187.txt
+2024-10-20 05:25:06,708 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110187.txt. Total records ingested: 10407. Duration: 0:00:01.431394
+2024-10-20 05:25:06,709 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110338.txt
+2024-10-20 05:25:08,198 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110338.txt. Total records ingested: 10712. Duration: 0:00:01.489264
+2024-10-20 05:25:08,199 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111280.txt
+2024-10-20 05:25:09,535 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111280.txt. Total records ingested: 9343. Duration: 0:00:01.335672
+2024-10-20 05:25:09,536 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111436.txt
+2024-10-20 05:25:11,095 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111436.txt. Total records ingested: 10744. Duration: 0:00:01.559165
+2024-10-20 05:25:11,095 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112140.txt
+2024-10-20 05:25:12,702 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112140.txt. Total records ingested: 10957. Duration: 0:00:01.607146
+2024-10-20 05:25:12,702 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112193.txt
+2024-10-20 05:25:14,250 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112193.txt. Total records ingested: 10653. Duration: 0:00:01.547942
+2024-10-20 05:25:14,251 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112348.txt
+2024-10-20 05:25:15,641 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112348.txt. Total records ingested: 9681. Duration: 0:00:01.390006
+2024-10-20 05:25:15,642 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112483.txt
+2024-10-20 05:25:17,248 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112483.txt. Total records ingested: 10898. Duration: 0:00:01.606170
+2024-10-20 05:25:17,249 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113335.txt
+2024-10-20 05:25:18,844 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113335.txt. Total records ingested: 10652. Duration: 0:00:01.594962
+2024-10-20 05:25:18,845 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113879.txt
+2024-10-20 05:25:20,169 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113879.txt. Total records ingested: 9074. Duration: 0:00:01.323801
+2024-10-20 05:25:20,169 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114108.txt
+2024-10-20 05:25:21,682 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114108.txt. Total records ingested: 10896. Duration: 0:00:01.513665
+2024-10-20 05:25:21,682 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114198.txt
+2024-10-20 05:25:23,198 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114198.txt. Total records ingested: 10926. Duration: 0:00:01.516251
+2024-10-20 05:25:23,198 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114442.txt
+2024-10-20 05:25:24,706 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114442.txt. Total records ingested: 10957. Duration: 0:00:01.507810
+2024-10-20 05:25:24,706 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114823.txt
+2024-10-20 05:25:26,207 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114823.txt. Total records ingested: 10929. Duration: 0:00:01.500709
+2024-10-20 05:25:26,207 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115079.txt
+2024-10-20 05:25:27,632 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115079.txt. Total records ingested: 10501. Duration: 0:00:01.424630
+2024-10-20 05:25:27,632 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115326.txt
+2024-10-20 05:25:29,031 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115326.txt. Total records ingested: 10077. Duration: 0:00:01.399399
+2024-10-20 05:25:29,031 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115515.txt
+2024-10-20 05:25:29,926 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115515.txt. Total records ingested: 6271. Duration: 0:00:00.895382
+2024-10-20 05:25:29,926 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115712.txt
+2024-10-20 05:25:31,403 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115712.txt. Total records ingested: 10957. Duration: 0:00:01.476189
+2024-10-20 05:25:31,403 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115768.txt
+2024-10-20 05:25:32,902 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115768.txt. Total records ingested: 10745. Duration: 0:00:01.499855
+2024-10-20 05:25:32,902 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115833.txt
+2024-10-20 05:25:34,380 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115833.txt. Total records ingested: 10866. Duration: 0:00:01.477710
+2024-10-20 05:25:34,380 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115901.txt
+2024-10-20 05:25:35,870 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115901.txt. Total records ingested: 10957. Duration: 0:00:01.489804
+2024-10-20 05:25:35,870 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115943.txt
+2024-10-20 05:25:37,401 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115943.txt. Total records ingested: 10957. Duration: 0:00:01.531504
+2024-10-20 05:25:37,401 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116446.txt
+2024-10-20 05:25:39,060 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116446.txt. Total records ingested: 10654. Duration: 0:00:01.658822
+2024-10-20 05:25:39,061 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116526.txt
+2024-10-20 05:25:40,923 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116526.txt. Total records ingested: 10926. Duration: 0:00:01.862177
+2024-10-20 05:25:40,923 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116558.txt
+2024-10-20 05:25:42,841 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116558.txt. Total records ingested: 10804. Duration: 0:00:01.917998
+2024-10-20 05:25:42,843 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116579.txt
+2024-10-20 05:25:44,742 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116579.txt. Total records ingested: 10407. Duration: 0:00:01.899440
+2024-10-20 05:25:44,742 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116610.txt
+2024-10-20 05:25:46,581 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116610.txt. Total records ingested: 10957. Duration: 0:00:01.838836
+2024-10-20 05:25:46,583 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116738.txt
+2024-10-20 05:25:47,887 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116738.txt. Total records ingested: 8126. Duration: 0:00:01.304535
+2024-10-20 05:25:47,887 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116910.txt
+2024-10-20 05:25:52,309 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:25:53,867 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110072.txt. Total records ingested: 10865. Duration: 0:00:01.558609
+2024-10-20 05:25:53,869 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110187.txt
+2024-10-20 05:25:55,387 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110187.txt. Total records ingested: 10407. Duration: 0:00:01.518824
+2024-10-20 05:25:55,387 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110338.txt
+2024-10-20 05:25:56,964 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110338.txt. Total records ingested: 10712. Duration: 0:00:01.576690
+2024-10-20 05:25:56,965 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111280.txt
+2024-10-20 05:25:58,254 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111280.txt. Total records ingested: 9343. Duration: 0:00:01.288823
+2024-10-20 05:25:58,254 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111436.txt
+2024-10-20 05:25:59,796 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111436.txt. Total records ingested: 10744. Duration: 0:00:01.542347
+2024-10-20 05:25:59,796 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112140.txt
+2024-10-20 05:26:01,347 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112140.txt. Total records ingested: 10957. Duration: 0:00:01.551085
+2024-10-20 05:26:01,347 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112193.txt
+2024-10-20 05:26:02,891 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112193.txt. Total records ingested: 10653. Duration: 0:00:01.544216
+2024-10-20 05:26:02,891 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112348.txt
+2024-10-20 05:26:04,242 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112348.txt. Total records ingested: 9681. Duration: 0:00:01.350632
+2024-10-20 05:26:04,242 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112483.txt
+2024-10-20 05:26:05,783 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112483.txt. Total records ingested: 10898. Duration: 0:00:01.540817
+2024-10-20 05:26:05,783 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113335.txt
+2024-10-20 05:26:07,322 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113335.txt. Total records ingested: 10652. Duration: 0:00:01.539152
+2024-10-20 05:26:07,322 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113879.txt
+2024-10-20 05:26:08,660 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113879.txt. Total records ingested: 9074. Duration: 0:00:01.338079
+2024-10-20 05:26:08,661 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114108.txt
+2024-10-20 05:26:10,253 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114108.txt. Total records ingested: 10896. Duration: 0:00:01.592434
+2024-10-20 05:26:10,254 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114198.txt
+2024-10-20 05:26:11,800 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114198.txt. Total records ingested: 10926. Duration: 0:00:01.545864
+2024-10-20 05:26:11,800 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114442.txt
+2024-10-20 05:26:13,471 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114442.txt. Total records ingested: 10957. Duration: 0:00:01.671180
+2024-10-20 05:26:13,471 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114823.txt
+2024-10-20 05:26:15,022 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114823.txt. Total records ingested: 10929. Duration: 0:00:01.550602
+2024-10-20 05:26:15,023 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115079.txt
+2024-10-20 05:26:16,489 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115079.txt. Total records ingested: 10501. Duration: 0:00:01.465708
+2024-10-20 05:26:16,489 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115326.txt
+2024-10-20 05:26:17,954 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115326.txt. Total records ingested: 10077. Duration: 0:00:01.465012
+2024-10-20 05:26:17,954 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115515.txt
+2024-10-20 05:26:18,818 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115515.txt. Total records ingested: 6271. Duration: 0:00:00.863450
+2024-10-20 05:26:18,818 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115712.txt
+2024-10-20 05:26:20,369 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115712.txt. Total records ingested: 10957. Duration: 0:00:01.551383
+2024-10-20 05:26:20,369 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115768.txt
+2024-10-20 05:26:21,967 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115768.txt. Total records ingested: 10745. Duration: 0:00:01.597843
+2024-10-20 05:26:21,967 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115833.txt
+2024-10-20 05:26:23,493 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115833.txt. Total records ingested: 10866. Duration: 0:00:01.526280
+2024-10-20 05:26:23,493 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115901.txt
+2024-10-20 05:26:25,023 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115901.txt. Total records ingested: 10957. Duration: 0:00:01.529387
+2024-10-20 05:26:25,024 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115943.txt
+2024-10-20 05:26:26,598 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115943.txt. Total records ingested: 10957. Duration: 0:00:01.574233
+2024-10-20 05:26:26,613 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116446.txt
+2024-10-20 05:26:28,145 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116446.txt. Total records ingested: 10654. Duration: 0:00:01.531930
+2024-10-20 05:26:28,145 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116526.txt
+2024-10-20 05:26:29,734 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116526.txt. Total records ingested: 10926. Duration: 0:00:01.588560
+2024-10-20 05:26:29,734 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116558.txt
+2024-10-20 05:26:31,263 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116558.txt. Total records ingested: 10804. Duration: 0:00:01.529439
+2024-10-20 05:26:31,264 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116579.txt
+2024-10-20 05:26:32,737 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116579.txt. Total records ingested: 10407. Duration: 0:00:01.472275
+2024-10-20 05:26:32,737 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116610.txt
+2024-10-20 05:26:34,331 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116610.txt. Total records ingested: 10957. Duration: 0:00:01.594554
+2024-10-20 05:26:34,331 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116738.txt
+2024-10-20 05:26:35,485 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116738.txt. Total records ingested: 8126. Duration: 0:00:01.153752
+2024-10-20 05:26:35,485 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116910.txt
+2024-10-20 05:26:37,026 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116910.txt. Total records ingested: 10898. Duration: 0:00:01.541343
+2024-10-20 05:26:37,027 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00117551.txt
+2024-10-20 05:26:38,680 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00117551.txt. Total records ingested: 10803. Duration: 0:00:01.652986
+2024-10-20 05:26:38,681 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118147.txt
+2024-10-20 05:26:40,153 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118147.txt. Total records ingested: 9896. Duration: 0:00:01.472318
+2024-10-20 05:26:40,153 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118740.txt
+2024-10-20 05:26:41,678 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118740.txt. Total records ingested: 10957. Duration: 0:00:01.525043
+2024-10-20 05:26:41,678 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118916.txt
+2024-10-20 05:26:43,200 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118916.txt. Total records ingested: 10865. Duration: 0:00:01.521916
+2024-10-20 05:26:43,200 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00119241.txt
+2024-10-20 05:26:44,714 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00119241.txt. Total records ingested: 10869. Duration: 0:00:01.513653
+2024-10-20 05:26:44,714 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00119354.txt
+2024-10-20 05:26:46,214 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00119354.txt. Total records ingested: 10896. Duration: 0:00:01.500492
+2024-10-20 05:26:46,214 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120177.txt
+2024-10-20 05:26:47,956 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120177.txt. Total records ingested: 10837. Duration: 0:00:01.741934
+2024-10-20 05:26:47,956 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120200.txt
+2024-10-20 05:26:49,762 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120200.txt. Total records ingested: 10927. Duration: 0:00:01.805414
+2024-10-20 05:26:49,763 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120676.txt
+2024-10-20 05:26:51,648 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120676.txt. Total records ingested: 10652. Duration: 0:00:01.885047
+2024-10-20 05:26:51,649 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120784.txt
+2024-10-20 05:26:53,583 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120784.txt. Total records ingested: 10897. Duration: 0:00:01.933742
+2024-10-20 05:26:53,585 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121030.txt
+2024-10-20 05:26:55,182 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121030.txt. Total records ingested: 10135. Duration: 0:00:01.597401
+2024-10-20 05:26:55,182 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121229.txt
+2024-10-20 05:26:56,041 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121229.txt. Total records ingested: 6087. Duration: 0:00:00.859207
+2024-10-20 05:26:56,041 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121425.txt
+2024-10-20 05:26:56,866 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121425.txt. Total records ingested: 5811. Duration: 0:00:00.825058
+2024-10-20 05:26:56,866 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121747.txt
+2024-10-20 05:26:58,406 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121747.txt. Total records ingested: 10957. Duration: 0:00:01.539444
+2024-10-20 05:26:58,421 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121873.txt
+2024-10-20 05:26:59,878 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121873.txt. Total records ingested: 10742. Duration: 0:00:01.456320
+2024-10-20 05:26:59,878 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00122149.txt
+2024-10-20 05:27:01,209 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00122149.txt. Total records ingested: 9554. Duration: 0:00:01.331077
+2024-10-20 05:27:01,209 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123418.txt
+2024-10-20 05:27:02,745 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123418.txt. Total records ingested: 10957. Duration: 0:00:01.536667
+2024-10-20 05:27:02,745 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123513.txt
+2024-10-20 05:27:04,286 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123513.txt. Total records ingested: 10347. Duration: 0:00:01.541073
+2024-10-20 05:27:04,286 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123527.txt
+2024-10-20 05:27:06,123 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123527.txt. Total records ingested: 10896. Duration: 0:00:01.836289
+2024-10-20 05:27:06,123 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124008.txt
+2024-10-20 05:27:07,091 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124008.txt. Total records ingested: 5476. Duration: 0:00:00.968425
+2024-10-20 05:27:07,091 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124181.txt
+2024-10-20 05:27:08,607 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124181.txt. Total records ingested: 10681. Duration: 0:00:01.515540
+2024-10-20 05:27:08,607 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124837.txt
+2024-10-20 05:27:10,156 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124837.txt. Total records ingested: 10866. Duration: 0:00:01.548914
+2024-10-20 05:27:10,156 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00125237.txt
+2024-10-20 05:27:12,396 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00125237.txt. Total records ingested: 10865. Duration: 0:00:02.240083
+2024-10-20 05:27:12,396 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00125337.txt
+2024-10-20 05:27:14,310 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00125337.txt. Total records ingested: 10926. Duration: 0:00:01.913922
+2024-10-20 05:27:14,312 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126001.txt
+2024-10-20 05:27:16,022 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126001.txt. Total records ingested: 10562. Duration: 0:00:01.710832
+2024-10-20 05:27:16,023 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126580.txt
+2024-10-20 05:27:17,736 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126580.txt. Total records ingested: 10899. Duration: 0:00:01.712767
+2024-10-20 05:27:17,740 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126705.txt
+2024-10-20 05:27:19,252 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126705.txt. Total records ingested: 10598. Duration: 0:00:01.511852
+2024-10-20 05:27:19,252 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127125.txt
+2024-10-20 05:27:20,839 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127125.txt. Total records ingested: 10804. Duration: 0:00:01.587311
+2024-10-20 05:27:20,839 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127298.txt
+2024-10-20 05:27:22,443 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127298.txt. Total records ingested: 10957. Duration: 0:00:01.603484
+2024-10-20 05:27:22,443 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127482.txt
+2024-10-20 05:27:24,026 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127482.txt. Total records ingested: 10957. Duration: 0:00:01.582985
+2024-10-20 05:27:24,026 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127522.txt
+2024-10-20 05:27:25,615 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127522.txt. Total records ingested: 10926. Duration: 0:00:01.589343
+2024-10-20 05:27:25,616 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127646.txt
+2024-10-20 05:27:27,182 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127646.txt. Total records ingested: 10957. Duration: 0:00:01.565674
+2024-10-20 05:27:27,183 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127755.txt
+2024-10-20 05:27:28,546 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127755.txt. Total records ingested: 8467. Duration: 0:00:01.363416
+2024-10-20 05:27:28,546 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127875.txt
+2024-10-20 05:27:29,740 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127875.txt. Total records ingested: 8219. Duration: 0:00:01.194386
+2024-10-20 05:27:29,740 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127935.txt
+2024-10-20 05:27:31,297 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127935.txt. Total records ingested: 10380. Duration: 0:00:01.556788
+2024-10-20 05:27:31,298 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00128036.txt
+2024-10-20 05:27:32,881 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00128036.txt. Total records ingested: 10835. Duration: 0:00:01.583125
+2024-10-20 05:27:32,881 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129080.txt
+2024-10-20 05:27:34,010 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129080.txt. Total records ingested: 7609. Duration: 0:00:01.129236
+2024-10-20 05:27:34,010 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129113.txt
+2024-10-20 05:27:35,575 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129113.txt. Total records ingested: 10927. Duration: 0:00:01.564813
+2024-10-20 05:27:35,575 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129253.txt
+2024-10-20 05:27:37,035 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129253.txt. Total records ingested: 10468. Duration: 0:00:01.459633
+2024-10-20 05:27:37,035 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129511.txt
+2024-10-20 05:27:38,049 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129511.txt. Total records ingested: 6849. Duration: 0:00:01.014188
+2024-10-20 05:27:38,050 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129557.txt
+2024-10-20 05:27:39,680 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129557.txt. Total records ingested: 10957. Duration: 0:00:01.629957
+2024-10-20 05:27:39,682 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129670.txt
+2024-10-20 05:27:41,390 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129670.txt. Total records ingested: 10957. Duration: 0:00:01.709534
+2024-10-20 05:27:41,390 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130112.txt
+2024-10-20 05:27:43,010 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130112.txt. Total records ingested: 10806. Duration: 0:00:01.619856
+2024-10-20 05:27:43,010 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130133.txt
+2024-10-20 05:27:45,000 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130133.txt. Total records ingested: 10957. Duration: 0:00:01.989747
+2024-10-20 05:27:45,001 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130600.txt
+2024-10-20 05:27:46,934 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130600.txt. Total records ingested: 10928. Duration: 0:00:01.932977
+2024-10-20 05:27:46,935 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131402.txt
+2024-10-20 05:27:48,594 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131402.txt. Total records ingested: 10957. Duration: 0:00:01.658563
+2024-10-20 05:27:48,595 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131533.txt
+2024-10-20 05:27:50,140 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131533.txt. Total records ingested: 10957. Duration: 0:00:01.544666
+2024-10-20 05:27:50,140 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131635.txt
+2024-10-20 05:27:51,702 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131635.txt. Total records ingested: 10957. Duration: 0:00:01.561722
+2024-10-20 05:27:51,704 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132724.txt
+2024-10-20 05:27:53,279 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132724.txt. Total records ingested: 10836. Duration: 0:00:01.574670
+2024-10-20 05:27:53,279 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132789.txt
+2024-10-20 05:27:54,923 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132789.txt. Total records ingested: 10957. Duration: 0:00:01.644147
+2024-10-20 05:27:54,923 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132864.txt
+2024-10-20 05:27:56,651 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132864.txt. Total records ingested: 10957. Duration: 0:00:01.728268
+2024-10-20 05:27:56,652 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132977.txt
+2024-10-20 05:27:58,491 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132977.txt. Total records ingested: 10957. Duration: 0:00:01.838297
+2024-10-20 05:27:58,492 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132999.txt
+2024-10-20 05:28:00,425 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132999.txt. Total records ingested: 10804. Duration: 0:00:01.933295
+2024-10-20 05:28:00,426 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134063.txt
+2024-10-20 05:28:02,273 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134063.txt. Total records ingested: 10714. Duration: 0:00:01.847583
+2024-10-20 05:28:02,274 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134142.txt
+2024-10-20 05:28:03,954 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134142.txt. Total records ingested: 10807. Duration: 0:00:01.679595
+2024-10-20 05:28:03,954 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134735.txt
+2024-10-20 05:28:05,490 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134735.txt. Total records ingested: 10928. Duration: 0:00:01.536244
+2024-10-20 05:28:05,490 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134894.txt
+2024-10-20 05:28:07,050 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134894.txt. Total records ingested: 10867. Duration: 0:00:01.559279
+2024-10-20 05:28:07,050 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135769.txt
+2024-10-20 05:28:08,705 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135769.txt. Total records ingested: 10833. Duration: 0:00:01.654593
+2024-10-20 05:28:08,705 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135796.txt
+2024-10-20 05:28:10,404 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135796.txt. Total records ingested: 10957. Duration: 0:00:01.698771
+2024-10-20 05:28:10,404 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135952.txt
+2024-10-20 05:28:12,006 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135952.txt. Total records ingested: 10899. Duration: 0:00:01.602598
+2024-10-20 05:28:12,007 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137147.txt
+2024-10-20 05:28:13,689 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137147.txt. Total records ingested: 10957. Duration: 0:00:01.682184
+2024-10-20 05:28:13,690 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137161.txt
+2024-10-20 05:28:15,427 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137161.txt. Total records ingested: 10957. Duration: 0:00:01.736405
+2024-10-20 05:28:15,428 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137979.txt
+2024-10-20 05:28:17,099 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137979.txt. Total records ingested: 10926. Duration: 0:00:01.670811
+2024-10-20 05:28:17,100 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00138296.txt
+2024-10-20 05:28:18,730 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00138296.txt. Total records ingested: 10837. Duration: 0:00:01.630718
+2024-10-20 05:28:18,737 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00138688.txt
+2024-10-20 05:28:20,420 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00138688.txt. Total records ingested: 10957. Duration: 0:00:01.683085
+2024-10-20 05:28:20,422 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250070.txt
+2024-10-20 05:28:21,869 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250070.txt. Total records ingested: 8918. Duration: 0:00:01.447408
+2024-10-20 05:28:21,882 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250130.txt
+2024-10-20 05:28:42,875 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110072.txt
+2024-10-20 05:28:44,406 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110072.txt. Total records ingested: 10865. Duration: 0:00:01.530877
+2024-10-20 05:28:44,406 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110187.txt
+2024-10-20 05:28:45,846 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110187.txt. Total records ingested: 10407. Duration: 0:00:01.440213
+2024-10-20 05:28:45,846 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00110338.txt
+2024-10-20 05:28:47,303 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00110338.txt. Total records ingested: 10712. Duration: 0:00:01.456684
+2024-10-20 05:28:47,303 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111280.txt
+2024-10-20 05:28:48,574 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111280.txt. Total records ingested: 9343. Duration: 0:00:01.270975
+2024-10-20 05:28:48,574 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00111436.txt
+2024-10-20 05:28:50,057 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00111436.txt. Total records ingested: 10744. Duration: 0:00:01.482746
+2024-10-20 05:28:50,057 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112140.txt
+2024-10-20 05:28:51,549 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112140.txt. Total records ingested: 10957. Duration: 0:00:01.491559
+2024-10-20 05:28:51,549 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112193.txt
+2024-10-20 05:28:53,001 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112193.txt. Total records ingested: 10653. Duration: 0:00:01.452331
+2024-10-20 05:28:53,002 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112348.txt
+2024-10-20 05:28:54,356 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112348.txt. Total records ingested: 9681. Duration: 0:00:01.354810
+2024-10-20 05:28:54,356 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00112483.txt
+2024-10-20 05:28:55,834 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00112483.txt. Total records ingested: 10898. Duration: 0:00:01.477883
+2024-10-20 05:28:55,834 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113335.txt
+2024-10-20 05:28:57,286 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113335.txt. Total records ingested: 10652. Duration: 0:00:01.451378
+2024-10-20 05:28:57,286 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00113879.txt
+2024-10-20 05:28:58,542 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00113879.txt. Total records ingested: 9074. Duration: 0:00:01.256718
+2024-10-20 05:28:58,542 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114108.txt
+2024-10-20 05:29:00,026 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114108.txt. Total records ingested: 10896. Duration: 0:00:01.483318
+2024-10-20 05:29:00,027 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114198.txt
+2024-10-20 05:29:01,532 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114198.txt. Total records ingested: 10926. Duration: 0:00:01.505408
+2024-10-20 05:29:01,533 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114442.txt
+2024-10-20 05:29:03,028 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114442.txt. Total records ingested: 10957. Duration: 0:00:01.495511
+2024-10-20 05:29:03,028 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00114823.txt
+2024-10-20 05:29:04,525 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00114823.txt. Total records ingested: 10929. Duration: 0:00:01.496983
+2024-10-20 05:29:04,526 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115079.txt
+2024-10-20 05:29:05,944 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115079.txt. Total records ingested: 10501. Duration: 0:00:01.417498
+2024-10-20 05:29:05,944 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115326.txt
+2024-10-20 05:29:07,329 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115326.txt. Total records ingested: 10077. Duration: 0:00:01.385413
+2024-10-20 05:29:07,329 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115515.txt
+2024-10-20 05:29:08,187 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115515.txt. Total records ingested: 6271. Duration: 0:00:00.857600
+2024-10-20 05:29:08,187 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115712.txt
+2024-10-20 05:29:09,725 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115712.txt. Total records ingested: 10957. Duration: 0:00:01.538636
+2024-10-20 05:29:09,725 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115768.txt
+2024-10-20 05:29:11,327 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115768.txt. Total records ingested: 10745. Duration: 0:00:01.601334
+2024-10-20 05:29:11,328 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115833.txt
+2024-10-20 05:29:12,890 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115833.txt. Total records ingested: 10866. Duration: 0:00:01.561993
+2024-10-20 05:29:12,890 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115901.txt
+2024-10-20 05:29:14,478 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115901.txt. Total records ingested: 10957. Duration: 0:00:01.588013
+2024-10-20 05:29:14,478 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00115943.txt
+2024-10-20 05:29:16,232 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00115943.txt. Total records ingested: 10957. Duration: 0:00:01.753929
+2024-10-20 05:29:16,232 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116446.txt
+2024-10-20 05:29:17,804 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116446.txt. Total records ingested: 10654. Duration: 0:00:01.571411
+2024-10-20 05:29:17,804 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116526.txt
+2024-10-20 05:29:19,367 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116526.txt. Total records ingested: 10926. Duration: 0:00:01.563440
+2024-10-20 05:29:19,367 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116558.txt
+2024-10-20 05:29:20,953 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116558.txt. Total records ingested: 10804. Duration: 0:00:01.585665
+2024-10-20 05:29:20,953 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116579.txt
+2024-10-20 05:29:22,891 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116579.txt. Total records ingested: 10407. Duration: 0:00:01.937696
+2024-10-20 05:29:22,891 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116610.txt
+2024-10-20 05:29:24,578 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116610.txt. Total records ingested: 10957. Duration: 0:00:01.687311
+2024-10-20 05:29:24,579 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116738.txt
+2024-10-20 05:29:25,717 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116738.txt. Total records ingested: 8126. Duration: 0:00:01.138483
+2024-10-20 05:29:25,717 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00116910.txt
+2024-10-20 05:29:27,353 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00116910.txt. Total records ingested: 10898. Duration: 0:00:01.635869
+2024-10-20 05:29:27,353 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00117551.txt
+2024-10-20 05:29:28,983 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00117551.txt. Total records ingested: 10803. Duration: 0:00:01.630306
+2024-10-20 05:29:28,983 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118147.txt
+2024-10-20 05:29:30,421 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118147.txt. Total records ingested: 9896. Duration: 0:00:01.437345
+2024-10-20 05:29:30,421 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118740.txt
+2024-10-20 05:29:32,022 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118740.txt. Total records ingested: 10957. Duration: 0:00:01.601621
+2024-10-20 05:29:32,022 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00118916.txt
+2024-10-20 05:29:33,725 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00118916.txt. Total records ingested: 10865. Duration: 0:00:01.702415
+2024-10-20 05:29:33,727 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00119241.txt
+2024-10-20 05:29:35,297 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00119241.txt. Total records ingested: 10869. Duration: 0:00:01.570230
+2024-10-20 05:29:35,297 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00119354.txt
+2024-10-20 05:29:36,871 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00119354.txt. Total records ingested: 10896. Duration: 0:00:01.574549
+2024-10-20 05:29:36,871 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120177.txt
+2024-10-20 05:29:38,446 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120177.txt. Total records ingested: 10837. Duration: 0:00:01.574742
+2024-10-20 05:29:38,446 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120200.txt
+2024-10-20 05:29:40,136 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120200.txt. Total records ingested: 10927. Duration: 0:00:01.689618
+2024-10-20 05:29:40,136 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120676.txt
+2024-10-20 05:29:41,765 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120676.txt. Total records ingested: 10652. Duration: 0:00:01.629690
+2024-10-20 05:29:41,765 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00120784.txt
+2024-10-20 05:29:43,616 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00120784.txt. Total records ingested: 10897. Duration: 0:00:01.850659
+2024-10-20 05:29:43,616 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121030.txt
+2024-10-20 05:29:45,087 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121030.txt. Total records ingested: 10135. Duration: 0:00:01.470486
+2024-10-20 05:29:45,087 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121229.txt
+2024-10-20 05:29:46,005 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121229.txt. Total records ingested: 6087. Duration: 0:00:00.918454
+2024-10-20 05:29:46,005 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121425.txt
+2024-10-20 05:29:46,862 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121425.txt. Total records ingested: 5811. Duration: 0:00:00.856949
+2024-10-20 05:29:46,862 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121747.txt
+2024-10-20 05:29:48,420 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121747.txt. Total records ingested: 10957. Duration: 0:00:01.558241
+2024-10-20 05:29:48,420 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00121873.txt
+2024-10-20 05:29:49,978 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00121873.txt. Total records ingested: 10742. Duration: 0:00:01.558183
+2024-10-20 05:29:49,978 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00122149.txt
+2024-10-20 05:29:51,336 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00122149.txt. Total records ingested: 9554. Duration: 0:00:01.357596
+2024-10-20 05:29:51,336 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123418.txt
+2024-10-20 05:29:52,910 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123418.txt. Total records ingested: 10957. Duration: 0:00:01.574310
+2024-10-20 05:29:52,910 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123513.txt
+2024-10-20 05:29:54,379 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123513.txt. Total records ingested: 10347. Duration: 0:00:01.468491
+2024-10-20 05:29:54,379 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00123527.txt
+2024-10-20 05:29:55,986 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00123527.txt. Total records ingested: 10896. Duration: 0:00:01.607293
+2024-10-20 05:29:55,986 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124008.txt
+2024-10-20 05:29:56,800 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124008.txt. Total records ingested: 5476. Duration: 0:00:00.814026
+2024-10-20 05:29:56,800 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124181.txt
+2024-10-20 05:29:58,414 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124181.txt. Total records ingested: 10681. Duration: 0:00:01.614154
+2024-10-20 05:29:58,414 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00124837.txt
+2024-10-20 05:30:00,185 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00124837.txt. Total records ingested: 10866. Duration: 0:00:01.770906
+2024-10-20 05:30:00,186 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00125237.txt
+2024-10-20 05:30:01,813 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00125237.txt. Total records ingested: 10865. Duration: 0:00:01.626819
+2024-10-20 05:30:01,813 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00125337.txt
+2024-10-20 05:30:03,594 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00125337.txt. Total records ingested: 10926. Duration: 0:00:01.781575
+2024-10-20 05:30:03,595 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126001.txt
+2024-10-20 05:30:05,329 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126001.txt. Total records ingested: 10562. Duration: 0:00:01.733278
+2024-10-20 05:30:05,329 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126580.txt
+2024-10-20 05:30:06,976 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126580.txt. Total records ingested: 10899. Duration: 0:00:01.647377
+2024-10-20 05:30:06,976 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00126705.txt
+2024-10-20 05:30:08,790 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00126705.txt. Total records ingested: 10598. Duration: 0:00:01.813777
+2024-10-20 05:30:08,790 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127125.txt
+2024-10-20 05:30:10,429 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127125.txt. Total records ingested: 10804. Duration: 0:00:01.639207
+2024-10-20 05:30:10,429 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127298.txt
+2024-10-20 05:30:12,150 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127298.txt. Total records ingested: 10957. Duration: 0:00:01.721432
+2024-10-20 05:30:12,150 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127482.txt
+2024-10-20 05:30:13,905 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127482.txt. Total records ingested: 10957. Duration: 0:00:01.754467
+2024-10-20 05:30:13,905 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127522.txt
+2024-10-20 05:30:15,688 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127522.txt. Total records ingested: 10926. Duration: 0:00:01.782991
+2024-10-20 05:30:15,689 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127646.txt
+2024-10-20 05:30:17,364 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127646.txt. Total records ingested: 10957. Duration: 0:00:01.675119
+2024-10-20 05:30:17,364 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127755.txt
+2024-10-20 05:30:18,677 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127755.txt. Total records ingested: 8467. Duration: 0:00:01.313238
+2024-10-20 05:30:18,677 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127875.txt
+2024-10-20 05:30:19,871 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127875.txt. Total records ingested: 8219. Duration: 0:00:01.194145
+2024-10-20 05:30:19,871 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00127935.txt
+2024-10-20 05:30:21,325 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00127935.txt. Total records ingested: 10380. Duration: 0:00:01.453459
+2024-10-20 05:30:21,325 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00128036.txt
+2024-10-20 05:30:22,899 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00128036.txt. Total records ingested: 10835. Duration: 0:00:01.574010
+2024-10-20 05:30:22,899 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129080.txt
+2024-10-20 05:30:24,203 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129080.txt. Total records ingested: 7609. Duration: 0:00:01.304719
+2024-10-20 05:30:24,203 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129113.txt
+2024-10-20 05:30:25,848 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129113.txt. Total records ingested: 10927. Duration: 0:00:01.645037
+2024-10-20 05:30:25,848 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129253.txt
+2024-10-20 05:30:27,433 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129253.txt. Total records ingested: 10468. Duration: 0:00:01.584457
+2024-10-20 05:30:27,434 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129511.txt
+2024-10-20 05:30:28,457 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129511.txt. Total records ingested: 6849. Duration: 0:00:01.023680
+2024-10-20 05:30:28,458 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129557.txt
+2024-10-20 05:30:30,120 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129557.txt. Total records ingested: 10957. Duration: 0:00:01.661917
+2024-10-20 05:30:30,120 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00129670.txt
+2024-10-20 05:30:31,763 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00129670.txt. Total records ingested: 10957. Duration: 0:00:01.642871
+2024-10-20 05:30:31,763 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130112.txt
+2024-10-20 05:30:33,295 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130112.txt. Total records ingested: 10806. Duration: 0:00:01.532249
+2024-10-20 05:30:33,295 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130133.txt
+2024-10-20 05:30:34,862 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130133.txt. Total records ingested: 10957. Duration: 0:00:01.567024
+2024-10-20 05:30:34,862 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00130600.txt
+2024-10-20 05:30:36,506 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00130600.txt. Total records ingested: 10928. Duration: 0:00:01.643953
+2024-10-20 05:30:36,506 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131402.txt
+2024-10-20 05:30:38,032 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131402.txt. Total records ingested: 10957. Duration: 0:00:01.526413
+2024-10-20 05:30:38,032 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131533.txt
+2024-10-20 05:30:39,775 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131533.txt. Total records ingested: 10957. Duration: 0:00:01.742906
+2024-10-20 05:30:39,776 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00131635.txt
+2024-10-20 05:30:41,465 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00131635.txt. Total records ingested: 10957. Duration: 0:00:01.688878
+2024-10-20 05:30:41,466 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132724.txt
+2024-10-20 05:30:43,061 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132724.txt. Total records ingested: 10836. Duration: 0:00:01.595075
+2024-10-20 05:30:43,061 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132789.txt
+2024-10-20 05:30:44,989 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132789.txt. Total records ingested: 10957. Duration: 0:00:01.928402
+2024-10-20 05:30:44,989 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132864.txt
+2024-10-20 05:30:46,837 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132864.txt. Total records ingested: 10957. Duration: 0:00:01.847948
+2024-10-20 05:30:46,837 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132977.txt
+2024-10-20 05:30:48,538 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132977.txt. Total records ingested: 10957. Duration: 0:00:01.700987
+2024-10-20 05:30:48,547 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00132999.txt
+2024-10-20 05:30:50,166 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00132999.txt. Total records ingested: 10804. Duration: 0:00:01.618383
+2024-10-20 05:30:50,166 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134063.txt
+2024-10-20 05:30:51,864 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134063.txt. Total records ingested: 10714. Duration: 0:00:01.698904
+2024-10-20 05:30:51,864 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134142.txt
+2024-10-20 05:30:53,433 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134142.txt. Total records ingested: 10807. Duration: 0:00:01.553390
+2024-10-20 05:30:53,433 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134735.txt
+2024-10-20 05:30:55,020 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134735.txt. Total records ingested: 10928. Duration: 0:00:01.587222
+2024-10-20 05:30:55,020 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00134894.txt
+2024-10-20 05:30:56,618 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00134894.txt. Total records ingested: 10867. Duration: 0:00:01.598024
+2024-10-20 05:30:56,618 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135769.txt
+2024-10-20 05:30:58,525 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135769.txt. Total records ingested: 10833. Duration: 0:00:01.906494
+2024-10-20 05:30:58,525 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135796.txt
+2024-10-20 05:31:00,313 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135796.txt. Total records ingested: 10957. Duration: 0:00:01.787685
+2024-10-20 05:31:00,313 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00135952.txt
+2024-10-20 05:31:02,549 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00135952.txt. Total records ingested: 10899. Duration: 0:00:02.236278
+2024-10-20 05:31:02,549 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137147.txt
+2024-10-20 05:31:04,212 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137147.txt. Total records ingested: 10957. Duration: 0:00:01.662703
+2024-10-20 05:31:04,212 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137161.txt
+2024-10-20 05:31:05,725 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137161.txt. Total records ingested: 10957. Duration: 0:00:01.512928
+2024-10-20 05:31:05,725 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00137979.txt
+2024-10-20 05:31:07,295 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00137979.txt. Total records ingested: 10926. Duration: 0:00:01.570765
+2024-10-20 05:31:07,295 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00138296.txt
+2024-10-20 05:31:09,042 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00138296.txt. Total records ingested: 10837. Duration: 0:00:01.746871
+2024-10-20 05:31:09,042 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00138688.txt
+2024-10-20 05:31:10,931 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00138688.txt. Total records ingested: 10957. Duration: 0:00:01.888528
+2024-10-20 05:31:10,931 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250070.txt
+2024-10-20 05:31:12,318 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250070.txt. Total records ingested: 8918. Duration: 0:00:01.387371
+2024-10-20 05:31:12,318 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250130.txt
+2024-10-20 05:31:13,856 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250130.txt. Total records ingested: 9587. Duration: 0:00:01.538265
+2024-10-20 05:31:13,856 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250375.txt
+2024-10-20 05:31:15,604 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250375.txt. Total records ingested: 10835. Duration: 0:00:01.747862
+2024-10-20 05:31:15,620 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250420.txt
+2024-10-20 05:31:17,139 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250420.txt. Total records ingested: 10379. Duration: 0:00:01.518885
+2024-10-20 05:31:17,139 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250435.txt
+2024-10-20 05:31:18,786 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250435.txt. Total records ingested: 10957. Duration: 0:00:01.647014
+2024-10-20 05:31:18,786 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250622.txt
+2024-10-20 05:31:20,380 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250622.txt. Total records ingested: 10896. Duration: 0:00:01.594824
+2024-10-20 05:31:20,381 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00250640.txt
+2024-10-20 05:31:22,047 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00250640.txt. Total records ingested: 10957. Duration: 0:00:01.665696
+2024-10-20 05:31:22,047 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00251145.txt
+2024-10-20 05:31:23,593 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00251145.txt. Total records ingested: 10836. Duration: 0:00:01.546448
+2024-10-20 05:31:23,593 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00251200.txt
+2024-10-20 05:31:25,146 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00251200.txt. Total records ingested: 10805. Duration: 0:00:01.552684
+2024-10-20 05:31:25,146 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00252020.txt
+2024-10-20 05:31:26,667 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00252020.txt. Total records ingested: 10746. Duration: 0:00:01.521604
+2024-10-20 05:31:26,668 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00252100.txt
+2024-10-20 05:31:28,195 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00252100.txt. Total records ingested: 10713. Duration: 0:00:01.526833
+2024-10-20 05:31:28,197 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00252205.txt
+2024-10-20 05:31:29,776 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00252205.txt. Total records ingested: 10926. Duration: 0:00:01.578995
+2024-10-20 05:31:29,778 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00252820.txt
+2024-10-20 05:31:31,377 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00252820.txt. Total records ingested: 10896. Duration: 0:00:01.599240
+2024-10-20 05:31:31,377 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00252840.txt
+2024-10-20 05:31:32,772 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00252840.txt. Total records ingested: 9771. Duration: 0:00:01.395597
+2024-10-20 05:31:32,772 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253035.txt
+2024-10-20 05:31:33,075 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253035.txt. Total records ingested: 2069. Duration: 0:00:00.302908
+2024-10-20 05:31:33,075 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253175.txt
+2024-10-20 05:31:34,680 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253175.txt. Total records ingested: 10957. Duration: 0:00:01.604281
+2024-10-20 05:31:34,695 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253185.txt
+2024-10-20 05:31:36,579 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253185.txt. Total records ingested: 10957. Duration: 0:00:01.883531
+2024-10-20 05:31:36,579 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253365.txt
+2024-10-20 05:31:38,347 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253365.txt. Total records ingested: 10926. Duration: 0:00:01.767569
+2024-10-20 05:31:38,347 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253615.txt
+2024-10-20 05:31:40,504 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253615.txt. Total records ingested: 10927. Duration: 0:00:02.157254
+2024-10-20 05:31:40,506 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253630.txt
+2024-10-20 05:31:42,380 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253630.txt. Total records ingested: 10927. Duration: 0:00:01.874394
+2024-10-20 05:31:42,380 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253660.txt
+2024-10-20 05:31:44,111 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253660.txt. Total records ingested: 10896. Duration: 0:00:01.730411
+2024-10-20 05:31:44,111 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253715.txt
+2024-10-20 05:31:45,466 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253715.txt. Total records ingested: 8521. Duration: 0:00:01.354777
+2024-10-20 05:31:45,467 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253735.txt
+2024-10-20 05:31:47,102 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253735.txt. Total records ingested: 10868. Duration: 0:00:01.635628
+2024-10-20 05:31:47,103 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00253910.txt
+2024-10-20 05:31:48,771 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00253910.txt. Total records ingested: 10957. Duration: 0:00:01.668186
+2024-10-20 05:31:48,773 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00254110.txt
+2024-10-20 05:31:50,430 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00254110.txt. Total records ingested: 10683. Duration: 0:00:01.657418
+2024-10-20 05:31:50,431 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00254440.txt
+2024-10-20 05:31:52,053 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00254440.txt. Total records ingested: 10866. Duration: 0:00:01.622129
+2024-10-20 05:31:52,054 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00254900.txt
+2024-10-20 05:31:53,722 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00254900.txt. Total records ingested: 10927. Duration: 0:00:01.667515
+2024-10-20 05:31:53,722 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00254985.txt
+2024-10-20 05:31:55,136 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00254985.txt. Total records ingested: 9861. Duration: 0:00:01.413833
+2024-10-20 05:31:55,136 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00255080.txt
+2024-10-20 05:31:56,509 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00255080.txt. Total records ingested: 9556. Duration: 0:00:01.372491
+2024-10-20 05:31:56,509 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00255310.txt
+2024-10-20 05:31:58,107 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00255310.txt. Total records ingested: 10926. Duration: 0:00:01.598447
+2024-10-20 05:31:58,107 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00255470.txt
+2024-10-20 05:31:59,453 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00255470.txt. Total records ingested: 8489. Duration: 0:00:01.346488
+2024-10-20 05:31:59,453 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00255565.txt
+2024-10-20 05:32:01,158 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00255565.txt. Total records ingested: 10957. Duration: 0:00:01.704912
+2024-10-20 05:32:01,158 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00256040.txt
+2024-10-20 05:32:02,568 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00256040.txt. Total records ingested: 9009. Duration: 0:00:01.409883
+2024-10-20 05:32:02,568 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00256135.txt
+2024-10-20 05:32:04,330 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00256135.txt. Total records ingested: 10957. Duration: 0:00:01.761951
+2024-10-20 05:32:04,330 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00256570.txt
+2024-10-20 05:32:06,048 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00256570.txt. Total records ingested: 10836. Duration: 0:00:01.718010
+2024-10-20 05:32:06,048 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00256970.txt
+2024-10-20 05:32:07,599 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00256970.txt. Total records ingested: 10017. Duration: 0:00:01.550575
+2024-10-20 05:32:07,599 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00257070.txt
+2024-10-20 05:32:09,231 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00257070.txt. Total records ingested: 10926. Duration: 0:00:01.632667
+2024-10-20 05:32:09,231 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00257515.txt
+2024-10-20 05:32:10,786 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00257515.txt. Total records ingested: 10075. Duration: 0:00:01.554232
+2024-10-20 05:32:10,786 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00257715.txt
+2024-10-20 05:32:12,345 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00257715.txt. Total records ingested: 10957. Duration: 0:00:01.558912
+2024-10-20 05:32:12,345 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00258133.txt
+2024-10-20 05:32:13,684 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00258133.txt. Total records ingested: 9225. Duration: 0:00:01.339859
+2024-10-20 05:32:13,686 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00258395.txt
+2024-10-20 05:32:15,466 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00258395.txt. Total records ingested: 10957. Duration: 0:00:01.780242
+2024-10-20 05:32:15,466 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00258465.txt
+2024-10-20 05:32:17,274 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00258465.txt. Total records ingested: 10684. Duration: 0:00:01.807899
+2024-10-20 05:32:17,274 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00258480.txt
+2024-10-20 05:32:18,889 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00258480.txt. Total records ingested: 10808. Duration: 0:00:01.615337
+2024-10-20 05:32:18,889 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00258915.txt
+2024-10-20 05:32:20,438 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00258915.txt. Total records ingested: 10957. Duration: 0:00:01.548627
+2024-10-20 05:32:20,438 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00259090.txt
+2024-10-20 05:32:21,833 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00259090.txt. Total records ingested: 9374. Duration: 0:00:01.395547
+2024-10-20 05:32:21,833 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00259510.txt
+2024-10-20 05:32:23,105 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00259510.txt. Total records ingested: 8735. Duration: 0:00:01.272156
+2024-10-20 05:32:23,105 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00331072.txt
+2024-10-20 05:32:24,726 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00331072.txt. Total records ingested: 10957. Duration: 0:00:01.620986
+2024-10-20 05:32:24,728 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00331152.txt
+2024-10-20 05:32:26,264 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00331152.txt. Total records ingested: 8886. Duration: 0:00:01.535523
+2024-10-20 05:32:26,264 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00331541.txt
+2024-10-20 05:32:27,947 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00331541.txt. Total records ingested: 10957. Duration: 0:00:01.683173
+2024-10-20 05:32:27,947 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00331592.txt
+2024-10-20 05:32:29,545 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00331592.txt. Total records ingested: 10957. Duration: 0:00:01.597590
+2024-10-20 05:32:29,545 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00331890.txt
+2024-10-20 05:32:31,149 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00331890.txt. Total records ingested: 10772. Duration: 0:00:01.604893
+2024-10-20 05:32:31,149 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00332098.txt
+2024-10-20 05:32:32,793 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00332098.txt. Total records ingested: 10927. Duration: 0:00:01.643553
+2024-10-20 05:32:32,795 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00332119.txt
+2024-10-20 05:32:33,631 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00332119.txt. Total records ingested: 5722. Duration: 0:00:00.836449
+2024-10-20 05:32:33,631 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00332791.txt
+2024-10-20 05:32:35,314 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00332791.txt. Total records ingested: 10957. Duration: 0:00:01.683273
+2024-10-20 05:32:35,315 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00333375.txt
+2024-10-20 05:32:37,043 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00333375.txt. Total records ingested: 10926. Duration: 0:00:01.727969
+2024-10-20 05:32:37,044 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00333758.txt
+2024-10-20 05:32:38,621 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00333758.txt. Total records ingested: 10712. Duration: 0:00:01.576838
+2024-10-20 05:32:38,621 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00333780.txt
+2024-10-20 05:32:40,321 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00333780.txt. Total records ingested: 10927. Duration: 0:00:01.699274
+2024-10-20 05:32:40,321 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00334189.txt
+2024-10-20 05:32:42,032 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00334189.txt. Total records ingested: 10834. Duration: 0:00:01.711243
+2024-10-20 05:32:42,032 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00335041.txt
+2024-10-20 05:32:43,648 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00335041.txt. Total records ingested: 10896. Duration: 0:00:01.615980
+2024-10-20 05:32:43,648 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00335297.txt
+2024-10-20 05:32:45,113 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00335297.txt. Total records ingested: 9557. Duration: 0:00:01.464916
+2024-10-20 05:32:45,114 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00335315.txt
+2024-10-20 05:32:46,651 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00335315.txt. Total records ingested: 9768. Duration: 0:00:01.537490
+2024-10-20 05:32:46,651 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00336118.txt
+2024-10-20 05:32:48,333 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00336118.txt. Total records ingested: 10957. Duration: 0:00:01.682253
+2024-10-20 05:32:48,334 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00336196.txt
+2024-10-20 05:32:49,944 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00336196.txt. Total records ingested: 10957. Duration: 0:00:01.609275
+2024-10-20 05:32:49,945 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00336600.txt
+2024-10-20 05:32:51,417 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00336600.txt. Total records ingested: 10561. Duration: 0:00:01.471986
+2024-10-20 05:32:51,417 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00336781.txt
+2024-10-20 05:32:53,090 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00336781.txt. Total records ingested: 10927. Duration: 0:00:01.672831
+2024-10-20 05:32:53,090 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338313.txt
+2024-10-20 05:32:54,605 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338313.txt. Total records ingested: 9862. Duration: 0:00:01.515490
+2024-10-20 05:32:54,605 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338534.txt
+2024-10-20 05:32:56,173 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338534.txt. Total records ingested: 10469. Duration: 0:00:01.568388
+2024-10-20 05:32:56,174 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338552.txt
+2024-10-20 05:32:57,747 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338552.txt. Total records ingested: 10896. Duration: 0:00:01.572556
+2024-10-20 05:32:57,747 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338769.txt
+2024-10-20 05:32:59,304 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338769.txt. Total records ingested: 10957. Duration: 0:00:01.557801
+2024-10-20 05:32:59,304 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338822.txt
+2024-10-20 05:33:00,840 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338822.txt. Total records ingested: 10957. Duration: 0:00:01.535723
+2024-10-20 05:33:00,840 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00338830.txt
+2024-10-20 05:33:02,383 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00338830.txt. Total records ingested: 10957. Duration: 0:00:01.542968
+2024-10-20 05:33:02,383 - INFO - Starting ingestion for code-challenge-template/wx_data\USC00339312.txt
+2024-10-20 05:33:03,952 - INFO - Finished ingestion for code-challenge-template/wx_data\USC00339312.txt. Total records ingested: 10957. Duration: 0:00:01.568927
